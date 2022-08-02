@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/medicare/medicare_v1_3/BuildConfig.java
+ com.medicare.medicare_v1_3.BuildConfig
